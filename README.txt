@@ -17,4 +17,8 @@ git clone https://github.com/sanarroya/ECOS-Tarea1.git
 
 man package
 
-4. Luego de construir el proyecto ubicarse en el directorio target/classes/ y ejecutar el comando java edu.uniandes.ecos.isw.tarea2.app.App para ver los resultados.
+4. Luego de construir el proyecto ubicarse en el directorio target/classes/ y ejecutar el comando 
+
+java edu.uniandes.ecos.isw.tarea2.app.App 
+
+para ver los resultados.
