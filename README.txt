@@ -1,6 +1,6 @@
 APLICACION PARA EL CONTEO DE LINEAS DE CODIGO:
 
-Esta aplicación cuenta lineas de código, items y códigos:
+Esta aplicación cuenta lineas de código, items y clases:
 Autor: Santiago Avila
 
 INSTRUCCIONES
